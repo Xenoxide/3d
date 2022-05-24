@@ -20,7 +20,7 @@ I might revisit this project after I figure out what I'm doing.
 
 Wikipedia seems like it's only for people who already know the topic they are learning.
 
-Run this (why tho):
+## Run this (why tho)
 
 You need to have the SDL2 development package installed. On apt this package is called `libsdl2-dev`.
 
@@ -29,3 +29,8 @@ You then compile it with `[compiler] test_projection.c -lm -lSDL2 -lSDL2main`.
 test_functions.c is only for testing matrix.h.
 
 If you aren't using linux then do the correct thing that you're supposed to do.
+
+## Nice
+Despite all this, I learned a lot doing this. I still don't completely understand them but I can tame pointers and arrays a bit more.
+
+Doing this brought back my interest in doing stuff like this. Before I was fixated on chemistry but now I want to wield the power of the computer. This might not last long, but even if I stop, I will still have learned something. And I think that's fine.
